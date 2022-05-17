@@ -143,6 +143,8 @@ header ul li a {
     background-color:var(--work-color);
 }
 
+/* Work content */
+
 .work-main-project {
     display: block;
     text-align: center;
@@ -161,7 +163,7 @@ header ul li a {
 
 .work-main-project-image img {
     width: 65vw;
-    height: 300px;
+    height: 600px;
 }
 
 
